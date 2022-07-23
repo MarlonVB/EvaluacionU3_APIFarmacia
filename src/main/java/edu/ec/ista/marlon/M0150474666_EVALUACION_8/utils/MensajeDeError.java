@@ -6,7 +6,7 @@ import java.util.Arrays;
 import java.util.List;
 
 /**Este es el cambio realizado para hacer la prueba
- * de actualizar nuestro repositorio
+ * de actualizar nuestro repositorio en GitHub
  * **/
 public class MensajeDeError {
     private HttpStatus status;
